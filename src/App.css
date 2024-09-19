@@ -7,9 +7,22 @@ html {
 }
 body {
   width: 100%;
-  padding: 50px 50px;
+  padding: 0px 50px;
 }
-div{
+.hero-img {
+  display: flex;
+  justify-content: space-between;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+}
+@media (max-width: 600) {
+
+  .main {
+    display: none;
+  }
+  .navbarmobile{
     display: flex;
-    
+  }
 }
