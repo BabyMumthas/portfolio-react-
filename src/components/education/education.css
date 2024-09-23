@@ -1,0 +1,37 @@
+.stgemmas {
+  display: flex;
+  width: 29%;
+  height: 136px;
+}
+.SSLC {
+  font-size: 20px;
+}
+.msp {
+  display: flex;
+  width: 29%;
+  height: 136px;
+}
+.cusat {
+  display: flex;
+  width: 29%;
+  height: 136px;
+}
+.edu {
+  display: flex;
+  justify-content: space-between;
+}
+.sslc-st {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.high-msp {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.btech-cusat {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}

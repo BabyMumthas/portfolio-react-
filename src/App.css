@@ -76,4 +76,7 @@ body {
     display: flex;
     align-items: center;
   }
+  .a2{
+    color: black;
+  }
 }

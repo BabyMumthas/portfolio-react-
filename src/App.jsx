@@ -3,6 +3,7 @@ import { NavBar } from "./components/navbar/navBar";
 import { Hero } from "./components/hero/hero";
 import { Image } from "./components/image/image";
 import { NavBarMobile } from "./components/navbarmobile/navbarmobile";
+import { Education } from "./components/education/education";
 function App() {
   return (
     <>
@@ -16,6 +17,7 @@ function App() {
         <Hero />
         <Image />
       </div>
+      <Education />
     </>
   );
 }

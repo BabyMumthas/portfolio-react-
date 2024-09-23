@@ -32,17 +32,17 @@ export const NavBarMobile = () => {
             </li>
             <li>
               <a class="a1" href="#">
-                ABOUT
+                INTRO
               </a>
             </li>
             <li>
-              <a class="a2" href="#">
-                PORTFOLIO
+              <a class="a3" href="#">
+                EDUCATION
               </a>
             </li>
             <li>
-              <a class="a2" href="#">
-                HIRE ME
+              <a class="a3" href="#">
+                CONTACT
               </a>
             </li>
           </div>

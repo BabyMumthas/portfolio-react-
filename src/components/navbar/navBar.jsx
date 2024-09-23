@@ -15,17 +15,17 @@ export const NavBar = () => {
           </li>
           <li>
             <a class="a1" href="#">
-              ABOUT
+              INTRO
             </a>
           </li>
           <li>
             <a class="a2" href="#">
-              PORTFOLIO
+            EDUCATION
             </a>
           </li>
           <li>
             <a class="a2" href="#">
-              HIRE ME
+              CONTACT
             </a>
           </li>
         </div>
